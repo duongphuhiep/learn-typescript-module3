@@ -1,0 +1,10 @@
+{
+	"compilerOptions": {
+		"module": "umd",
+		"noImplicitAny": true,
+		"removeComments": false,
+		"preserveConstEnums": true,
+		"outDir": "../genUmd",
+		"sourceMap": false
+	}
+}

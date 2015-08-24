@@ -1,0 +1,15 @@
+{
+  "name": "learning-ts-module2",
+  "version": "1.0.0",
+  "author": "hiep <duongphuhiep@gmail.com>",
+  "description": "Training Typescript - Module and in different formats",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc --project app",
+    "watch": "tsc --watch --project app"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^1.5.3"
+  }
+}
