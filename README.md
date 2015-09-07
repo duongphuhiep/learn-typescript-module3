@@ -18,7 +18,7 @@ In typescript the internal module must to be combine with the consumer, so I thi
 ```
 ##Quick link to the result
 
-* [`M2.ts orginal`](/app/M2.ts) which requires [`M3`](/app/M3.ts) and export the class `Cls3` and the object `Inst3`
+* [`M2.ts orginal`](/app/M2.ts) which requires [`M3`](/app/M3.ts) and export the class `Cls2` and the object `Inst2`
 * [`M2` in `commonjs`](/genCommonjs/M2.js) format: no need to declare dependencies ahead.
 * [`M2` in `umd`](/genUmd/M2.js): favorite format to publish opensource library which compatible with both `amd` and `commonjs` loaders (see also [`umdjs`](https://github.com/umdjs/umd)).
 * [`M2` in `amd`](/genAmd/M2.js) format: need to declare all dependencies ahead.
